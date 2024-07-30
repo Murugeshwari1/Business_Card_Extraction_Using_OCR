@@ -30,7 +30,10 @@ processing techniques such as filtering, contrast adjustment, and noise reductio
 **NumPy:** Employed for efficient handling of image arrays and numerical operations
 
 
+
+
 **FRONTEND**
+
 
 ![1](https://github.com/user-attachments/assets/f9fe73ca-40c1-4c10-8b3c-32e227e60a33)
 
@@ -41,6 +44,8 @@ processing techniques such as filtering, contrast adjustment, and noise reductio
 
 
 ![3](https://github.com/user-attachments/assets/4c5695e0-46e4-4f24-9a1f-2c05f4ba52dd)
+
+
 
 
 
